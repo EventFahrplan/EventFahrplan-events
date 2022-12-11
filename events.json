@@ -1,0 +1,18 @@
+[
+    {
+        "acronym": "hip-berlin-2022",
+        "xmlUrl": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.xml"
+    },
+    {
+        "acronym": "fire-shonks-2022",
+        "xmlUrl": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/export/schedule.xml"
+    },
+    {
+        "acronym": "divoc-bb3",
+        "xmlUrl": "https://pretalx.c3voc.de/divoc-bb3/schedule/export/schedule.xml"
+    },
+    {
+        "acronym": "invalid",
+        "xmlUrl": "https://pretalx.c3voc.de/invalid/schedule/export/schedule.xml"
+    }
+]
